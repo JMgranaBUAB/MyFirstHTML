@@ -13,6 +13,6 @@ las **imagenes** de la web son fruto de Gemini para evuitar el *derecho de autor
 
 
 ## desarrolladores
-JM
-Carlos
-Camilo
+- JM (github) (linkedin)
+- Carlos (github) (linkedin)
+- Camilo (github) (linkedin)
