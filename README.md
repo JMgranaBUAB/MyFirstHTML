@@ -8,7 +8,7 @@ Your site is live at https://jmgranabuab.github.io/MyFirstHTML/
 
 
 ## imagenes
-las imagenes de la web son fruto de Gemini para evuitar el derecho de autor
+las **imagenes** de la web son fruto de Gemini para evuitar el *derecho de autor*
 
 
 
