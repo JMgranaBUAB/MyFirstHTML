@@ -6,6 +6,8 @@ este proyecto a sido fruto de un ejercicio de aprendizaje en el que se busca cre
 Para ejecutar el prooyecto en produccion
 Your site is live at https://jmgranabuab.github.io/MyFirstHTML/
 
+⚠️warning: Este proyecto es solo un ejercicio de aprendizaje y no está destinado a ser utilizado en un entorno de producción real. Se recomienda utilizarlo únicamente con fines educativos y de práctica.
+
 ## Captura
 <img width="496" height="269" alt="Imagen de Pulgarcito" src="https://github.com/user-attachments/assets/78e44be4-d5f3-47af-97cf-d472c2ff4434" />
 
