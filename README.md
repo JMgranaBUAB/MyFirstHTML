@@ -24,3 +24,9 @@ las **imagenes** de la web son fruto de Gemini para evuitar el *derecho de autor
 - JM (github) (linkedin)
 - Carlos (github) (linkedin)
 - Camilo (github) (linkedin)
+
+<a href="https://github.com/ProjectComixSix/HangarRebelde/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectComixSix/HangarRebelde" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
