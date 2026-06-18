@@ -7,7 +7,7 @@ Para ejecutar el prooyecto en produccion
 Your site is live at https://jmgranabuab.github.io/MyFirstHTML/
 
 ## Captura
-<img width="496" height="269" alt="Captura de pantalla 2026-06-18 103403" src="https://github.com/user-attachments/assets/78e44be4-d5f3-47af-97cf-d472c2ff4434" />
+<img width="496" height="269" alt="Imagen de Pulgarcito" src="https://github.com/user-attachments/assets/78e44be4-d5f3-47af-97cf-d472c2ff4434" />
 
 
 
