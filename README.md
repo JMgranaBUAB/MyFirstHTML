@@ -32,11 +32,3 @@ las **imagenes** de la web son fruto de Gemini para evuitar el *derecho de autor
 Made with [contrib.rocks](https://contrib.rocks).
 
 
-
-
-
-
-
-
-
-🎮❌🚗🍔🥨🤎🤎🤎💚💚💚⛔⛔⛔🔞🔞🔞🔞☢️☢️☢️
