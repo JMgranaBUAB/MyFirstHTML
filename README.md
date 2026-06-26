@@ -1,4 +1,4 @@
-# Pulgarcito
+# Pulgarcito el cuento
 
 Proyecto web introductorio desarrollado con HTML y CSS como parte de una práctica de aprendizaje en el curso de Digitech Cáritas. La idea principal fue crear una página sencilla, organizada y visualmente atractiva, mientras se practicaban conceptos básicos de estructura web y estilos.
 
